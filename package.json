@@ -1,0 +1,16 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.10.2",
+    "chrome-remote-interface": "^0.25.6",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
